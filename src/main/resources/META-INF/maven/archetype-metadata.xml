@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <requiredProperties>
 	<requiredProperty key="featureName" >
-      <defaultValue>Digiwes Feature name</defaultValue>
+      <defaultValue>${artifactId}</defaultValue>
     </requiredProperty>
       <requiredProperty key="featureDescription" >
           <defaultValue>Digiwes Feature description</defaultValue>
